@@ -1,5 +1,5 @@
 card1,card2,card3,card4,card5,card6,card7,card8,wild,usage,Win Rate
-Lumberjack,Balloon,Executioner,Skeleton Army,Skeletons,Freeze,Log,Cannon,"['evo', 'hero', 'evo']",0.7,67.7
+Lumberjack,Balloon,Executioner,Skeleton Army,Skeletons,Freeze,The Log,Cannon,"['evo', 'hero', 'evo']",0.7,67.7
 Battle Ram,Wizard,Royal Ghost,Giant Skeleton,Mother Witch,Vines,Zappies,Barbarian Barrel,"['evo', 'hero', 'evo']",0.5,67.6
 Mortar,Goblins,Minion Horde,Miner,Cannon Cart,Skeleton Dragons,Rascals,Arrows,"['evo', 'hero', 'evo']",0.8,63.6
 Skeleton Barrel,Goblins,Mortar,Cannon Cart,Fireball,Minions,Rascals,Barbarian Barrel,"['evo', 'hero', 'evo']",4.7,63.3
@@ -8,24 +8,24 @@ Battle Ram,Wizard,Lumberjack,Giant Skeleton,Dark Prince,Fireball,Zappies,Barbari
 Goblin Cage,Dark Prince,Zap,Lava Hound,Spirit Empress,Fireball,Skeleton Dragons,Barbarian Barrel,"['evo', 'hero', 'evo']",1.0,62.1
 Skeleton Barrel,Bowler,Mortar,Fireball,Minions,Rascals,Skeletons,Barbarian Barrel,"['evo', 'hero', 'evo']",0.5,61.7
 Lumberjack,Mini P.E.K.K.A,Zap,Golem,Phoenix,Night Witch,Bomber,Arrows,"['evo', 'hero', 'evo']",0.4,61.2
-Royal Giant,Barbarian BArrel,Royal Ghost,Hunter,Fisherman,Fireball,Skeletons,Electro Spirit,"['evo', 'hero', 'evo']",1.1,60.3
-Goblin Barrel,Dark Prince,Snowball,Cannon Cart,Rocket,Bandit,Princess,Rascals,"['evo', 'hero', 'evo']",1.1,59.9
+Royal Giant,Barbarian Barrel,Royal Ghost,Hunter,Fisherman,Fireball,Skeletons,Electro Spirit,"['evo', 'hero', 'evo']",1.1,60.3
+Goblin Barrel,Dark Prince,Giant Snowball,Cannon Cart,Rocket,Bandit,Princess,Rascals,"['evo', 'hero', 'evo']",1.1,59.9
 Lumberjack,Goblins,Mega Knight,Ram Rider,Spirit Empress,Fireball,Furnace,Zap,"['evo', 'hero', 'evo']",0.6,59.8
-Wall Breakers,Magic Archer,Bats,Miner,Fire Spirit,Skeletons,Log,Bomb Tower,"['evo', 'hero', 'evo']",0.6,59.4
-Royal Hogs,Dark Prince,Tesla,Lightning,Skeleton Dragons,SKeletons,Electro Spirit,Barbarian Barrel,"['evo', 'hero', 'evo']",0.9,59.1
-Skeletons,Dark Prince,Tesla,Miner,Rocket,Electro Spirit,Royal Delivery,Log,"['evo', 'hero', 'evo']",0.7,58.0
-Archers,Dark Prince,Bats,Mortar,Miner,Poison,Skeletons,Log,"['evo', 'hero', 'evo']",0.6,57.2
-Cannon,Ice Golem,Skeletons,Hog Rider,Musketeer,Fireball,Ice Spirit,Log,"['evo', 'hero', 'evo']",0.4,56.4
-Battle Ram,MAgic Archer,Royal Ghost,P.E.K.K.A,Fireball,Electro Wizard,Bandit,Zap,"['evo', 'hero', 'evo']",0.4,56.3
+Wall Breakers,Magic Archer,Bats,Miner,Fire Spirit,Skeletons,The Log,Bomb Tower,"['evo', 'hero', 'evo']",0.6,59.4
+Royal Hogs,Dark Prince,Tesla,Lightning,Skeleton Dragons,Skeletons,Electro Spirit,Barbarian Barrel,"['evo', 'hero', 'evo']",0.9,59.1
+Skeletons,Dark Prince,Tesla,Miner,Rocket,Electro Spirit,Royal Delivery,The Log,"['evo', 'hero', 'evo']",0.7,58.0
+Archers,Dark Prince,Bats,Mortar,Miner,Poison,Skeletons,The Log,"['evo', 'hero', 'evo']",0.6,57.2
+Cannon,Ice Golem,Skeletons,Hog Rider,Musketeer,Fireball,Ice Spirit,The Log,"['evo', 'hero', 'evo']",0.4,56.4
+Battle Ram,Magic Archer,Royal Ghost,P.E.K.K.A,Fireball,Electro Wizard,Bandit,Zap,"['evo', 'hero', 'evo']",0.4,56.3
 Furnace,Barbarian Barrel,Tesla,Graveyard,Knight,Poison,Skeletons,Ice Spirit,"['evo', 'hero', 'evo']",1.4,56.2
 Furnace,Bowler,Knight,Graveyard,Poison,Goblin Hut,Skeletons,Barbarian Barrel,"['evo', 'hero', 'evo']",0.7,56.2
 Firecracker,Mighty Miner,Tesla,Hog Rider,Earthquake,Skeletons,Electro Spirit,Barbarian Barrel,"['evo', 'hero', 'evo']",0.4,55.2
-Goblin Barrel,Knight,Skeleton Army,Princess,Dart Goblin,Ice Spirit,Log,Inferno Tower,"['evo', 'hero', 'evo']",0.5,54.9
-Archers,Knight,Tesla,X-Bow,Fireball,Skeletons,Electro Spirit,Log,"['evo', 'hero', 'evo']",1.9,53.9
-Royal Hogs,Archer Queen,Cannon,Earthquake,Skeletons,Ice Spirit,Royal Delivery,Log,"['evo', 'hero', 'evo']",0.8,52.5
-Executioner,Goblins,Valkyrie,Hog Rider,Rocket,Tornado,Ice Spirit,Log,"['evo', 'hero', 'evo']",0.4,51.8
-Witch,Giant,Snowball,Graveyard,Mini P.E.K.K.A,Bowler,Minions,Arrows,"['evo', 'hero', 'evo']",0.4,49.2
+Goblin Barrel,Knight,Skeleton Army,Princess,Dart Goblin,Ice Spirit,The Log,Inferno Tower,"['evo', 'hero', 'evo']",0.5,54.9
+Archers,Knight,Tesla,X-Bow,Fireball,Skeletons,Electro Spirit,The Log,"['evo', 'hero', 'evo']",1.9,53.9
+Royal Hogs,Archer Queen,Cannon,Earthquake,Skeletons,Ice Spirit,Royal Delivery,The Log,"['evo', 'hero', 'evo']",0.8,52.5
+Executioner,Goblins,Valkyrie,Hog Rider,Rocket,Tornado,Ice Spirit,The Log,"['evo', 'hero', 'evo']",0.4,51.8
+Witch,Giant,Giant Snowball,Graveyard,Mini P.E.K.K.A,Bowler,Minions,Arrows,"['evo', 'hero', 'evo']",0.4,49.2
 Furnace,Dark Prince,Knight,Graveyard,Poison,Goblin Hut,Ice Spirit,Barbarian Barrel,"['evo', 'hero', 'evo']",0.4,48.9
-Snowball,Knight,Cannon,Goblin Drill,Rocket,Bomber,Fire Spirit,Skeletons,"['evo', 'hero', 'evo']",0.3,48.7
+Giant Snowball,Knight,Cannon,Goblin Drill,Rocket,Bomber,Fire Spirit,Skeletons,"['evo', 'hero', 'evo']",0.3,48.7
 Furnace,Knight,Tesla,Graveyard,Poison,Skeletons,Ice Spirit,Barbarian Barrel,"['evo', 'hero', 'evo']",0.3,44.0
-Musketeer,Ice Golem,Cannon,Hog Rider,Fireball,Skeletons,Ice Spirit,Log,"['evo', 'hero', 'evo']",0.7,42.1
+Musketeer,Ice Golem,Cannon,Hog Rider,Fireball,Skeletons,Ice Spirit,The Log,"['evo', 'hero', 'evo']",0.7,42.1
