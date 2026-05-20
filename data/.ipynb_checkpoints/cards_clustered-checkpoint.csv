@@ -1,0 +1,121 @@
+name,id,wild,elixirCost,rarity,damage11,hitpoints11,type,mobility,targets,attack_type,groupCard,usage,Win Rate,Cluster
+Mega Knight,26000055,evo,7.0,legendary,268.0,3993.0,troop,ground,ground,single,False,5.04,48.5,0
+Lava Hound,26000029,normal,7.0,legendary,54.0,3581.0,troop,flying,buildings,single,False,2.4,60.53,0
+Giant Skeleton,26000020,normal,6.0,epic,208.0,3617.0,troop,ground,buildings,single,False,2.0,51.68,0
+Goblin Giant,26000060,evo,6.0,epic,176.0,3233.0,troop,ground,buildings,single,False,0.56,45.66,0
+Golem,26000009,normal,8.0,epic,312.0,5120.0,troop,ground,ground,single,False,2.24,57.26,0
+Electro Giant,26000085,normal,7.0,epic,163.0,3855.0,troop,ground,ground,splash,False,1.28,51.35,0
+P.E.K.K.A,26000004,evo,7.0,epic,816.0,3760.0,troop,ground,ground,single,False,3.28,50.61,0
+Giant,26000003,hero,5.0,rare,254.0,4090.0,troop,ground,buildings,single,False,2.32,59.1,0
+Royal Giant,26000024,evo,6.0,common,307.0,3164.0,troop,ground,buildings,single,False,0.72,43.88,0
+Boss Bandit,26000103,normal,6.0,champion,245.0,2803.0,troop,ground,ground,single,False,4.32,54.6,0
+Fire Spirit,26000031,normal,1.0,common,207.0,230.0,troop,ground,ground,single,False,1.76,51.2,1
+Arrows,28000001,normal,3.0,common,294.0,0.0,spell,flying,both,splash,False,30.64,55.97,1
+Firecracker,26000064,evo,3.0,common,320.0,304.0,troop,ground,both,splash,False,8.08,50.15,1
+Skeleton Dragons,26000080,normal,4.0,common,161.0,560.0,troop,flying,both,single,True,2.72,61.78,1
+Ice Spirit,26000030,evo,1.0,common,110.0,230.0,troop,ground,ground,single,False,20.64,49.76,1
+Electro Spirit,26000084,normal,1.0,common,99.0,230.0,troop,ground,ground,single,False,6.4,55.94,1
+Fireball,28000000,normal,4.0,rare,242.0,0.0,spell,flying,both,splash,False,18.64,53.21,1
+Vines,28000026,normal,3.0,epic,306.0,0.0,spell,ground,both,splash,False,4.8,53.21,1
+Dart Goblin,26000040,evo,3.0,rare,120.0,261.0,troop,ground,both,single,False,9.44,51.41,1
+Electro Wizard,26000042,normal,4.0,legendary,232.0,714.0,troop,ground,both,splash,False,9.84,54.05,1
+Magic Archer,26000062,hero,4.0,legendary,134.0,529.0,troop,ground,both,splash,False,4.08,48.68,1
+Bandit,26000046,normal,3.0,legendary,193.0,906.0,troop,ground,ground,splash,False,9.6,55.7,1
+Cannon,27000000,evo,3.0,common,202.0,824.0,building,ground,ground,splash,False,10.64,48.58,1
+Bats,26000049,evo,2.0,common,405.0,81.0,troop,flying,both,single,True,8.88,51.71,1
+Berserker,26000102,normal,2.0,common,102.0,896.0,troop,ground,ground,single,False,1.36,54.13,1
+Suspicious Bush,26000097,normal,2.0,rare,256.0,81.0,troop,ground,ground,single,False,1.12,54.43,1
+Mega Minion,26000039,hero,3.0,rare,311.0,837.0,troop,flying,both,single,False,3.28,58.08,1
+Goblin Gang,26000041,normal,3.0,common,522.0,202.0,troop,ground,ground,single,True,26.16,55.02,1
+Rage,28000002,normal,2.0,epic,179.0,0.0,spell,ground,both,splash,False,8.48,55.06,1
+Princess,26000026,normal,3.0,legendary,169.0,261.0,troop,ground,both,splash,False,9.92,52.04,1
+Archers,26000001,evo,3.0,common,214.0,304.0,troop,ground,both,single,True,1.44,46.1,1
+Goblins,26000002,hero,2.0,common,360.0,202.0,troop,ground,ground,single,True,3.6,54.32,1
+Minions,26000005,normal,3.0,common,306.0,230.0,troop,flying,both,single,True,2.88,53.23,1
+Goblin Curse,28000024,normal,2.0,epic,210.0,0.0,spell,ground,both,splash,False,1.28,52.53,1
+Royal Delivery,28000018,normal,3.0,common,437.0,787.0,spell,ground,both,splash,False,4.0,54.17,1
+Giant Snowball,28000017,evo,2.0,common,192.0,0.0,spell,ground,both,splash,False,2.24,53.08,1
+Skeletons,26000010,evo,1.0,common,243.0,81.0,troop,ground,ground,single,True,14.56,51.05,1
+Heal Spirit,28000016,normal,1.0,rare,110.0,230.0,troop,ground,both,splash,False,1.6,59.3,1
+Goblin Barrel,28000004,evo,3.0,epic,360.0,0.0,spell,ground,both,splash,False,10.8,48.82,1
+Bomber,26000013,evo,2.0,common,327.0,332.0,troop,ground,ground,splash,False,2.48,54.07,1
+Barbarian Barrel,28000015,hero,2.0,epic,224.0,670.0,spell,ground,both,splash,False,8.4,57.11,1
+Clone,28000013,normal,3.0,epic,0.0,0.0,spell,ground,both,splash,False,0.88,49.53,1
+Tornado,28000012,normal,3.0,epic,168.0,0.0,spell,ground,both,splash,False,13.52,51.63,1
+The Log,28000011,normal,2.0,legendary,290.0,0.0,spell,ground,both,splash,False,42.88,52.5,1
+Poison,28000009,normal,4.0,epic,256.0,0.0,spell,ground,both,splash,False,7.44,52.33,1
+Spear Goblins,26000019,normal,2.0,common,243.0,133.0,troop,ground,both,single,True,4.0,55.91,1
+Zap,28000008,evo,2.0,common,192.0,0.0,spell,ground,both,splash,False,11.36,52.82,1
+Freeze,28000005,normal,4.0,epic,41.0,0.0,spell,ground,both,splash,False,3.12,54.81,1
+Ice Wizard,26000023,normal,3.0,legendary,90.0,688.0,troop,ground,both,splash,False,7.2,53.29,1
+Guards,26000025,normal,3.0,epic,108.0,337.0,troop,ground,ground,single,True,11.84,58.65,1
+Earthquake,28000014,normal,3.0,rare,888.0,0.0,spell,ground,both,splash,False,6.72,54.97,1
+Skeleton Barrel,26000056,evo,3.0,common,133.0,532.0,troop,ground,buildings,single,False,5.36,56.7,1
+Phoenix,26000087,normal,4.0,legendary,217.0,1052.0,troop,flying,both,single,False,1.6,58.4,2
+Mother Witch,26000083,normal,4.0,legendary,133.0,529.0,troop,ground,ground,single,False,2.0,57.19,2
+Little Prince,26000093,normal,3.0,champion,104.0,698.0,troop,ground,ground,single,False,1.76,52.56,2
+Goblin Demolisher,26000095,normal,4.0,rare,186.0,1300.0,troop,ground,ground,single,False,0.48,53.67,2
+Goblin Machine,26000096,normal,5.0,legendary,212.0,2304.0,troop,ground,ground,single,False,0.88,57.56,2
+Goblin Drill,27000013,evo,4.0,epic,120.0,1313.0,building,ground,ground,single,False,1.92,51.49,2
+Rune Giant,26000101,normal,4.0,epic,120.0,2508.0,troop,ground,ground,single,False,0.32,44.3,2
+Goblin Hut,27000001,normal,4.0,rare,517.0,1228.0,building,ground,ground,splash,False,0.4,49.41,2
+Mortar,27000002,evo,4.0,common,266.0,1369.0,building,ground,buildings,splash,False,0.32,49.22,2
+Inferno Tower,27000003,normal,5.0,rare,42.0,1748.0,building,ground,both,single,False,7.6,50.54,2
+Bomb Tower,27000004,normal,4.0,rare,222.0,1356.0,building,ground,ground,splash,False,2.24,53.49,2
+Tesla,27000006,evo,4.0,common,230.0,1152.0,building,ground,both,single,False,8.64,50.38,2
+Elixir Collector,27000007,normal,6.0,rare,0.0,1070.0,building,ground,ground,single,False,2.32,59.31,2
+X-Bow,27000008,normal,6.0,epic,32.0,1600.0,building,ground,buildings,single,False,3.04,51.72,2
+Goblin Cage,27000012,evo,4.0,rare,318.0,1080.0,building,ground,ground,single,False,1.2,50.9,2
+Monk,26000077,normal,5.0,champion,140.0,2150.0,troop,ground,ground,single,False,2.32,57.35,2
+Goblinstein,26000099,normal,5.0,champion,128.0,721.0,troop,ground,ground,single,False,4.64,54.22,2
+Golden Knight,26000074,normal,4.0,champion,161.0,1799.0,troop,ground,ground,single,False,1.68,50.69,2
+Knight,26000000,both,3.0,common,202.0,1766.0,troop,ground,ground,single,False,8.88,51.79,2
+Skeleton King,26000069,normal,4.0,champion,204.0,2298.0,troop,ground,ground,splash,False,3.68,57.4,2
+Battle Ram,26000036,evo,4.0,rare,265.0,967.0,troop,flying,buildings,single,False,2.0,54.84,2
+Archer Queen,26000072,normal,5.0,champion,225.0,1000.0,troop,ground,ground,single,False,6.48,56.47,2
+Lumberjack,26000035,evo,4.0,legendary,242.0,1282.0,troop,ground,buildings,single,False,4.32,53.12,2
+Bowler,26000034,normal,5.0,epic,288.0,2081.0,troop,ground,ground,splash,False,3.04,59.11,2
+Miner,26000032,normal,3.0,legendary,193.0,1210.0,troop,ground,ground,single,False,8.0,55.25,2
+Minion Horde,26000022,evo,5.0,common,612.0,230.0,troop,flying,both,single,True,1.44,52.17,2
+Inferno Dragon,26000037,evo,4.0,legendary,36.0,1295.0,troop,flying,both,splash,False,8.16,55.56,2
+Hog Rider,26000021,normal,4.0,rare,318.0,1697.0,troop,ground,buildings,single,False,19.44,51.93,2
+Wizard,26000017,both,5.0,rare,279.0,755.0,troop,ground,both,splash,False,2.72,47.21,2
+Prince,26000016,normal,5.0,epic,392.0,1920.0,troop,ground,ground,single,False,9.92,56.07,2
+Baby Dragon,26000015,evo,4.0,epic,160.0,1152.0,troop,flying,both,splash,False,4.64,51.97,2
+Musketeer,26000014,both,4.0,rare,218.0,721.0,troop,ground,both,single,False,5.12,50.09,2
+Valkyrie,26000011,evo,4.0,rare,267.0,1907.0,troop,ground,ground,splash,False,3.04,47.16,2
+Witch,26000007,evo,5.0,epic,265.0,839.0,troop,ground,both,splash,False,5.12,49.92,2
+Mini P.E.K.K.A,26000018,hero,4.0,rare,720.0,1361.0,troop,ground,ground,single,False,7.36,51.32,2
+Ice Golem,26000038,hero,2.0,rare,84.0,1198.0,troop,ground,ground,single,False,4.08,51.08,2
+Royal Hogs,26000059,evo,5.0,rare,268.0,837.0,troop,ground,ground,single,True,4.48,55.41,2
+Battle Healer,26000068,normal,4.0,rare,148.0,1717.0,troop,flying,ground,single,False,1.44,56.07,2
+Flying Machine,26000057,normal,4.0,rare,171.0,614.0,troop,flying,both,single,False,2.24,57.98,2
+Electro Dragon,26000063,evo,5.0,epic,192.0,949.0,troop,flying,both,splash,False,0.8,44.52,2
+Mighty Miner,26000065,normal,4.0,champion,40.0,2250.0,troop,ground,ground,single,False,4.24,57.0,2
+Elixir Golem,26000067,normal,3.0,rare,254.0,1569.0,troop,ground,ground,single,False,2.96,51.26,2
+Rascals,26000053,normal,5.0,common,399.0,2201.0,troop,ground,ground,single,True,1.36,56.92,2
+Fisherman,26000061,normal,3.0,legendary,193.0,870.0,troop,ground,ground,single,False,4.0,56.37,2
+Zappies,26000052,normal,4.0,rare,252.0,529.0,troop,ground,ground,single,True,1.28,59.6,2
+Spirit Empress,28000025,normal,6.0,legendary,307.0,1177.0,troop,flying,both,single,False,4.8,54.23,2
+Royal Ghost,26000050,evo,3.0,legendary,261.0,1210.0,troop,ground,ground,single,False,5.52,57.5,2
+Night Witch,26000048,normal,4.0,legendary,314.0,906.0,troop,ground,both,single,False,3.12,57.32,2
+Royal Recruits,26000047,evo,7.0,common,532.0,787.0,troop,ground,ground,single,True,0.96,49.57,2
+Executioner,26000045,evo,5.0,epic,617.0,1280.0,troop,ground,both,splash,False,2.72,47.81,2
+Ram Rider,26000051,normal,5.0,legendary,266.0,1697.0,troop,ground,buildings,single,False,3.2,53.06,2
+Void,28000023,normal,3.0,epic,1020.0,0.0,spell,ground,both,splash,False,0.8,53.83,3
+Barbarians,26000008,evo,5.0,common,960.0,670.0,troop,ground,ground,single,True,0.32,50.35,3
+Skeleton Army,26000012,evo,3.0,epic,1215.0,81.0,troop,ground,ground,single,True,6.8,52.39,3
+Balloon,26000006,hero,5.0,epic,960.0,1679.0,troop,flying,buildings,single,False,7.52,57.38,3
+Elite Barbarians,26000043,normal,6.0,common,726.0,1341.0,troop,ground,ground,single,True,3.28,52.4,3
+Lightning,28000007,normal,6.0,epic,1056.0,0.0,spell,ground,both,splash,False,7.04,56.03,3
+Wall Breakers,26000058,evo,2.0,epic,962.0,330.0,troop,ground,buildings,single,True,7.12,54.09,3
+Hunter,26000044,evo,4.0,epic,848.0,885.0,troop,ground,both,single,False,1.52,50.58,3
+Cannon Cart,26000054,normal,5.0,epic,892.0,1730.0,troop,ground,buildings,single,False,4.0,61.19,3
+Dark Prince,26000027,normal,4.0,epic,1240.0,1440.0,troop,ground,ground,single,False,4.24,56.87,3
+Rocket,28000003,normal,6.0,rare,1484.0,0.0,spell,ground,both,splash,False,7.44,48.96,3
+Three Musketeers,26000028,normal,9.0,rare,654.0,721.0,troop,ground,ground,splash,True,0.72,56.4,3
+Sparky,26000033,normal,6.0,legendary,1331.0,1451.0,troop,ground,ground,single,False,3.12,57.06,3
+Tombstone,27000009,normal,3.0,rare,1458.0,529.0,building,ground,ground,single,False,2.56,53.38,3
+Barbarian Hut,27000005,normal,6.0,rare,1920.0,1164.0,building,ground,ground,single,False,0.16,46.98,3
+Graveyard,28000010,normal,5.0,legendary,1296.0,0.0,spell,ground,both,splash,False,3.44,56.34,3
+Furnace,27000010,evo,4.0,rare,2580.0,727.0,troop,ground,both,splash,False,0.64,51.17,3
